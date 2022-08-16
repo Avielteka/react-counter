@@ -5,7 +5,7 @@ function App() {
   return (
     <div className='App'>
       <Counter appCounter="2"/>
-      {/* <User Fname="Aviel"/> */}
+      <User Fname="Aviel"/>
 
     </div>
   );
